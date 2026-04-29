@@ -1,0 +1,2 @@
+Este projeto foi criado para fins de estudo e prática de desenvolvimento de páginas web.
+O meu-projeto é uma aplicação (ou base de projeto) que tem como objetivo demonstrar conceitos de desenvolvimento, organização de código e boas práticas.
